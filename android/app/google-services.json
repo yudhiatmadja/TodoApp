@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "7827988881",
+    "project_id": "praktikum-a2adc",
+    "storage_bucket": "praktikum-a2adc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:7827988881:android:1fa41d09d12ca94c6cfa30",
+        "android_client_info": {
+          "package_name": "com.module3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9ZeEMsRk8qLcHc7bTn-27CEUl7MgsNdw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:7827988881:android:a6492f70e740f6d56cfa30",
+        "android_client_info": {
+          "package_name": "com.module3.clmodule3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9ZeEMsRk8qLcHc7bTn-27CEUl7MgsNdw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
